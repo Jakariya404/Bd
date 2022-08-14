@@ -83,7 +83,6 @@ vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 os.system('clear')
 
-print """
 \033[1;93m             
 ────────────────────────────────────────────────────
 
